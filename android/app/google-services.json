@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "331969286841",
+    "firebase_url": "https://tospi-39d17-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tospi-39d17",
+    "storage_bucket": "tospi-39d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331969286841:android:8bcc2c197fac5eec31c168",
+        "android_client_info": {
+          "package_name": "com.tospideriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331969286841-g2urcf5cj209u8dc6j7jhph65pl532em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tospideriver.app",
+            "certificate_hash": "37549304188304a453575e491aeb63ec4943cee2"
+          }
+        },
+        {
+          "client_id": "331969286841-n3joals9i4nac41h9mtlo602q8mdnakc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tospideriver.app",
+            "certificate_hash": "5366480fabac29e860ca2c8d5727e99e60f5670d"
+          }
+        },
+        {
+          "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9mV-5L7GQoAF6x0flopieJLNtLdFPm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331969286841:android:540fd4bf17e7e32831c168",
+        "android_client_info": {
+          "package_name": "com.tospiuser.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331969286841-cangl6kbndpimemde143aeu90jkka2vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tospiuser.app",
+            "certificate_hash": "5366480fabac29e860ca2c8d5727e99e60f5670d"
+          }
+        },
+        {
+          "client_id": "331969286841-ivok1bo36fvth1cmh4oib1hibmc53qs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tospiuser.app",
+            "certificate_hash": "802a8a72a77805ef9ae9793cdf71099691bbf879"
+          }
+        },
+        {
+          "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9mV-5L7GQoAF6x0flopieJLNtLdFPm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331969286841:android:7968bfe32292b79131c168",
+        "android_client_info": {
+          "package_name": "com.tospiuser.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9mV-5L7GQoAF6x0flopieJLNtLdFPm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331969286841-p4vjd37ve21ljfkfcnhortejvn27pb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

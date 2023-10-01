@@ -1,0 +1,27 @@
+{
+    "SOS" : {
+      "d3197ab2-ff7f-4ef7-89a4-6646137ef225" : {
+        "is_driver" : 1,
+        "is_user" : 0,
+        "serv_loc_id" : "d6522806-c74a-473b-894b-3501b17491e5",
+        "updated_at" : 1628785720000
+      },
+      "dc78afe2-98ba-422e-95c6-0d2769a2291b" : {
+        "is_driver" : 1,
+        "is_user" : 0,
+        "req_id" : "dc78afe2-98ba-422e-95c6-0d2769a2291b",
+        "serv_loc_id" : "d6522806-c74a-473b-894b-3501b17491e5",
+        "updated_at" : 1629292118370
+      }
+    },
+    "drivers" : {
+   
+      "id" : {
+        "is_available" : false
+      }
+    },
+    "getTranslation" : false,
+    "requests" : {
+    },
+    "show_company" : false
+  }
